@@ -14,7 +14,7 @@
 
 ## 👨‍💻 À propos
 
-- 🎓 Diplôme en **Développement Digital Full Stack** (OFPPT – ISTA Sidi Moumen)
+- 🎓 Diplôme en **Développement Digital Full Stack**  
 - 📚 Actuellement en **Licence Génie Logiciel** à l'ESTEM
 - 💼 Stage à l'**ONDA** (avril–mai 2025) : conception d'une application complète de gestion de stock
 - 🎯 Je construis des applications complètes : API REST côté serveur, interface moderne côté client
