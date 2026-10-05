@@ -1,14 +1,6 @@
-<h1 align="center">Hi there! 👋</h1>
+# Salut, je suis Marouane 👋
+Développeur Full Stack junior à Casablanca 🇲🇦, à la recherche d'un stage pré-embauche / premier poste.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
----
-
-### 👩‍💻 About Me
-- 💻 Passionate Programmer & Tech Enthusiast  
-- 🚀 Turning ideas into elegant solutions  
-- 🌱 Currently learning new technologies  
-- ✨ Always curious & creative  
- 
+🛠️ **Stack :** PHP/Laravel · React.js/Next.js · MySQL · REST API · Git
+📂 **Projets :** TAYCANS (location de voitures) · LMS Platform (e-learning) · ShopEasy (e-commerce) · Gestion de stock ONDA
+🌐 Portfolio : https://portfolio-1-omega-mocha.vercel.app
