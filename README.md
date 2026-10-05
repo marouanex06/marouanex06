@@ -1,7 +1,7 @@
 <h1 align="center">Salut, je suis Marouane 👋</h1>
 
 <p align="center">
-  Développeur Full Stack junior basé à Casablanca 🇲🇦<br>
+  Développeur Full Stack junior<br>
   À la recherche d'un <b>stage pré-embauche</b> ou d'un <b>premier poste</b> en développement web
 </p>
 
