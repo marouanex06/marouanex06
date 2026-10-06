@@ -1,10 +1,7 @@
 <h1 align="center">Salut, je suis Marouane 👋</h1>
 
 <p align="center">
-  Développeur Full Stack junior<br>
-  À la recherche d'un <b>stage pré-embauche</b> ou d'un <b>premier poste</b> en développement web
-</p>
-
+  Développeur Full Stack 🇲🇦<br>
 <p align="center">
   <a href="https://portfolio-1-omega-mocha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visiter-0A66C2?style=for-the-badge" alt="Portfolio"></a>
   <a href="mailto:marwaneelkhayati123@gmail.com"><img src="https://img.shields.io/badge/Email-me%20contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -14,7 +11,7 @@
 
 ## 👨‍💻 À propos
 
-- 🎓 Diplôme en **Développement Digital Full Stack**  
+- 🎓 Diplôme en **Développement Digital Full Stack** (OFPPT – ISTA Sidi Moumen)
 - 📚 Actuellement en **Licence Génie Logiciel** à l'ESTEM
 - 💼 Stage à l'**ONDA** (avril–mai 2025) : conception d'une application complète de gestion de stock
 - 🎯 Je construis des applications complètes : API REST côté serveur, interface moderne côté client
@@ -44,17 +41,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## 📂 Projets
-
-| Projet | Description | Stack |
-|---|---|---|
-| [**gestion_stock_ONDA**](https://github.com/marouanex06/gestion_stock_ONDA) | Application de gestion de stock réalisée pendant mon stage à l'ONDA | Laravel API · React.js · MySQL |
-| [**lms**](https://github.com/marouanex06/lms) | Plateforme e-learning multi-rôles  
-| [**cars**](https://github.com/marouanex06/cars) | Plateforme de location de voitures 
-| [**social_app**](https://github.com/marouanex06/social_app) | Application sociale  
-
 ## 📫 Me contacter
 
 - 🌐 Portfolio : [portfolio-1-omega-mocha.vercel.app](https://portfolio-1-omega-mocha.vercel.app)
 - ✉️ Email : marwaneelkhayati123@gmail.com
-- 💼 LinkedIn : https://www.linkedin.com/in/marouane-el-khayati-1b89a1313/
+- 💼 LinkedIn :https://www.linkedin.com/in/marouane-el-khayati-1b89a1313/?isSelfProfile=true
